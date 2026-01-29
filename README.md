@@ -1,7 +1,7 @@
 <!-- Documents project setup, features, and how to run the application. -->
-# BASIC UNDERSTANDING OF THE #PROJECT & ITS AIM
-![Alt text](/static/assets/Logo.png)
+# BASIC UNDERSTANDING OF THE PROJECT & ITS AIM
 
+![Alt text](/static/assets/Logo.png)
 
 # 🌾 Crop & Pest Help Module – AI System Prompt
 
@@ -217,4 +217,3 @@ project/
 │
 └── README.md
 ```
-
